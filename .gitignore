@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Python virtual environment
+firstfastapi/
+venv/
+.venv/
+
+# React dependencies
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+
+# Environment variables
+.env
+.env.*
+
+# Editor files
+.vscode/
